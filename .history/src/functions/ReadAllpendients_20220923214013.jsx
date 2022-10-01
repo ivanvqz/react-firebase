@@ -1,3 +1,0 @@
-(
-    <div>
-export default ReadAllpendients
